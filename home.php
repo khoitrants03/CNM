@@ -67,7 +67,7 @@ include 'components/add_cart.php';
             <div class="swiper-slide slide">
                <div class="content">
                   <!-- <span>mua sắm</span> -->
-                  <h3>TheGioiNongSan</h3>
+                  <h3>TheGioiNongSann</h3>
                   <a href="#" class="btn">Xem thêm</a>
                </div>
                <div class="image">
