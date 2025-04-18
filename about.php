@@ -53,7 +53,7 @@ if (isset($_SESSION['user_id'])) {
 
 
    <!-- reviews section starts  -->
-
+khi
    <section class="reviews">
       <h1 class="title">Giới Thiệu Về Thế Giới Nông Sản Sạch</h1>
       <div class="swiper reviews-slider">
